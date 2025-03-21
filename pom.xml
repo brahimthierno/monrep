@@ -196,4 +196,9 @@
 		</plugins>
 	</reporting>
 
+	<properties>
+  <sonar.organization>brahimthierno</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
+
 </project>
